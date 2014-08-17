@@ -1,4 +1,11 @@
 nahjolbalaghe
 =============
 
-the nahjolbalaghe'book.nahjolbalaghe of imam ali is a religion book.the nahjolbalaghe web site is about Ali and nahjolbalaghe'book and other Ali sience and his words.
+the nahjolbalaghe'book.
+nahjolbalaghe is a book of imam ali.
+a religion book.
+the nahjolbalaghe web site is about Ali and nahjolbalaghe'book and other Ali sience and his words.
+http://nahjal-balagha.comli.com/
+
+-------------
+its under construct
