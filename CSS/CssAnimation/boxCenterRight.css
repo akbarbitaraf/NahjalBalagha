@@ -1,0 +1,37 @@
+@-webkit-keyframes movetorightCenter
+{
+    from {}
+    to {top:43%;right: 0}
+}
+@keyframes movetorightCenter
+{
+    0% {}
+    100% {top:43%;right: 0}
+}
+.boxAnimationConfigMovetorightCenter
+{
+    -webkit-animation: movetorightCenter 3s;
+    -webkit-animation-fill-mode: both;
+
+    animation: movetorightCenter 3s;
+    animation-fill-mode: both;
+}
+
+@-webkit-keyframes movetocenter
+{
+    from {}
+    to {top:43%;}
+}
+@keyframes movetocenter
+{
+    0% {}
+    100% {top:43%;}
+}
+.boxAnimationConfigMovetocenter
+{
+    -webkit-animation: movetocenter 3s;
+    -webkit-animation-fill-mode: both;
+
+    animation: movetocenter 3s;
+    animation-fill-mode: both;
+}

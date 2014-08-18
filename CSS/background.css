@@ -1,0 +1,25 @@
+.bluehtmlClass
+{
+    height: 100%;
+    background-image: -ms-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+    background-image: -moz-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+    background-image: -o-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FFFFFF), color-stop(1, #00A3EF));
+    background-image: -webkit-linear-gradient(top left, #FFFFFF 0%, #00A3EF 100%);
+    background-image: linear-gradient(to bottom right, #FFFFFF 0%, #00A3EF 100%);
+}
+body
+{
+    margin: 0;
+    height: 100%;
+}
+.grayhtmlclass
+{
+    height: 100%;
+    background-image: -ms-linear-gradient(bottom left, #c5c5c5 0%, #333333 100%);
+    background-image: -moz-linear-gradient(bottom left, #c5c5c5 0%, #333333 100%);
+    background-image: -o-linear-gradient(bottom left, #c5c5c5 0%, #333333 100%);
+    background-image: -webkit-gradient(linear, left bottom, right top, color-stop(0, #c5c5c5), color-stop(1, #333333));
+    background-image: -webkit-linear-gradient(bottom left, #c5c5c5 0%, #333333 100%);
+    background-image: linear-gradient(to bottom left, #c5c5c5 0%, #333333 100%);
+}

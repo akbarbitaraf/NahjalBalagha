@@ -1,0 +1,32 @@
+.readNP
+{
+    height: 73%;
+    width: 35%;
+    position: absolute;
+    left: 3%;
+    top: 13%;
+    display: none;
+    opacity: 0;
+
+    margin: 0;
+    padding: 0;
+    border-top: #808080 5px inset;
+    border-right: #808080 5px outset;
+    border-left: #808080 2px inset;
+    border-bottom: #808080 2px outset;
+
+    background: -moz-linear-gradient(45deg, rgb(180, 180, 180) 0%, rgb(148, 148, 148) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgb(180, 180, 180)), color-stop(100%, rgb(148, 148, 148)));
+    background: -webkit-linear-gradient(45deg, rgb(180, 180, 180) 0%, rgb(148, 148, 148) 100%);
+    background: -o-linear-gradient(45deg, rgb(180, 180, 180) 0%, rgb(148, 148, 148) 100%);
+    background: -ms-linear-gradient(45deg, rgb(180, 180, 180) 0%, rgb(148, 148, 148) 100%);
+    background: linear-gradient(45deg, rgb(180, 180, 180) 0%, rgb(148, 148, 148) 100%);
+
+    border-radius: 23px;
+    -moz-border-radius: 23px;
+    -webkit-border-radius: 23px;
+
+    -webkit-box-shadow: 0px 0px 33px 0px #333333;
+    -moz-box-shadow: 0px 0px 33px 0px #333333;
+    box-shadow: 0px 0px 33px 0px #333333;
+}

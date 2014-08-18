@@ -1,0 +1,21 @@
+/* bigger class region */
+.boxpositiontypeAb
+{
+    position: absolute;
+}
+.boxpositiontypeRe
+{
+    position: relative;
+}
+.boxhoverGreen:hover
+{
+    text-shadow: 0px 1px 6px gray;
+}
+.boxhoverBlue:hover
+{
+    text-shadow: 0px 0px 10px gray;
+}
+.boxhoverGray:hover
+{
+    text-shadow: 0px 0px 10px gray;
+}
