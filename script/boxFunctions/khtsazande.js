@@ -1,4 +1,4 @@
-function khtsazande(id)
+function khtsazande(number)
 {
 
 $(document).ready(function()
@@ -15,7 +15,8 @@ $(document).ready(function()
 
     var allText = "";
     var GetkhtHText = new XMLHttpRequest();
-    GetkhtHText.open("GET", "Nah/kht/1.txt", false);
+    var path = "Nah/kht/"+number.toString()+".txt";
+    GetkhtHText.open("GET", path, false);
     GetkhtHText.onreadystatechange = function ()
     {
         if(GetkhtHText.readyState === 4)
@@ -23,11 +24,6 @@ $(document).ready(function()
             if(GetkhtHText.status === 200 || GetkhtHText.status == 0)
             {
                 allText = GetkhtHText.responseText;
-
-                //////////////////////////////
-                allText = allText.replace('<!-- Hosting24 Analytics Code --><script type="text/javascript" src="http://stats.hosting24.com/count.php"></script><!-- End Of Analytics Code -->' , "");
-                ////////////////////////////////
-
                 allText = allText.replace(/\n/g , "");
                 var i = headerCreator(allText);
                 TextProcessing(allText , i);

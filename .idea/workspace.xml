@@ -27,7 +27,7 @@
       <file leaf-file-name="nahf.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nahf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="68" selection-start="1987" selection-end="1987" vertical-scroll-proportion="0.46085674" vertical-offset="456" max-vertical-offset="1752">
+            <state line="40" column="10" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.25553915" vertical-offset="787" max-vertical-offset="1752">
               <folding />
             </state>
           </provider>
@@ -94,9 +94,9 @@
         <option value="$PROJECT_DIR$/Nah/other/man/arzH.html" />
         <option value="$PROJECT_DIR$/CSS/boxTpes/boxBlueReadN.css" />
         <option value="$PROJECT_DIR$/CSS/boxTpes/boxGreenReadN.css" />
+        <option value="$PROJECT_DIR$/Nah/kht/1.txt" />
         <option value="$PROJECT_DIR$/nahf.html" />
         <option value="$PROJECT_DIR$/script/boxFunctions/khtsazande.js" />
-        <option value="$PROJECT_DIR$/Nah/kht/1.txt" />
       </list>
     </option>
   </component>
@@ -198,7 +198,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="makeelementFunctions" />
+              <option name="myItemId" value="boxFunctions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,6 +217,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="boxFunctions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depth3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nahjolbalaghe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nahjolbalaghe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxFunctions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depth2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -269,9 +295,11 @@
     <property name="recentsLimit" value="5" />
     <property name="SearchEverywhereHistory" value="&quot;ex" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\nahjolbalaghe\Nah\kht" />
       <recent name="E:\nah\nahjolbalaghe\document\database\mongoDB" />
       <recent name="E:\nah\nahjolbalaghe" />
       <recent name="E:\nah\nahjolbalaghe\CSS" />
@@ -355,7 +383,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17907573" sideWeight="0.49933067" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18100129" sideWeight="0.49933067" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994911" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16559692" sideWeight="0.50066936" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919892" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -363,12 +391,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23791349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23791349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -390,11 +418,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS/boxWrapper.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/background.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -605,16 +628,6 @@
         <state line="10" column="10" selection-start="171" selection-end="171" vertical-scroll-proportion="0.33195022" vertical-offset="0" max-vertical-offset="723" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth3/arz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="107" selection-end="107" vertical-scroll-proportion="0.16597511" vertical-offset="0" max-vertical-offset="888" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth2/kht1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="38" selection-end="38" vertical-scroll-proportion="0.066390045" vertical-offset="0" max-vertical-offset="723" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth1/kh.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="86" selection-end="86" vertical-scroll-proportion="0.13278009" vertical-offset="0" max-vertical-offset="723" />
@@ -622,37 +635,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/headerreadN.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710">
-          <folding>
-            <marker date="1407545941260" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/TextProcessing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="182" selection-end="182" vertical-scroll-proportion="0.27042255" vertical-offset="0" max-vertical-offset="1200">
+        <state line="5" column="5" selection-start="114" selection-end="114" vertical-scroll-proportion="0.16901408" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nah/kht/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.21270311" vertical-offset="0" max-vertical-offset="1608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth3/arz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="9" selection-start="107" selection-end="107" vertical-scroll-proportion="0.033195022" vertical-offset="96" max-vertical-offset="888">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Nah/kht/1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="18211" selection-end="18211" vertical-scroll-proportion="0.9323944" vertical-offset="802" max-vertical-offset="1608">
+        <state line="61" column="0" selection-start="18211" selection-end="18211" vertical-scroll-proportion="2.061972" vertical-offset="0" max-vertical-offset="1608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth2/kht1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="36" selection-end="36" vertical-scroll-proportion="0.066390045" vertical-offset="0" max-vertical-offset="723">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/boxFunctions/khtsazande.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.6760563" vertical-offset="120" max-vertical-offset="1032">
+        <state line="11" column="5" selection-start="211" selection-end="211" vertical-scroll-proportion="0.36514524" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nahf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="68" selection-start="1987" selection-end="1987" vertical-scroll-proportion="0.46085674" vertical-offset="456" max-vertical-offset="1752">
+        <state line="40" column="10" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.25553915" vertical-offset="787" max-vertical-offset="1752">
           <folding />
         </state>
       </provider>

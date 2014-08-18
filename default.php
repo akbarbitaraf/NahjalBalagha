@@ -1,3 +1,3 @@
 <?php
-header('Location: '."http://nahjal-balagha.comli.com/nahf.html");
+header('Location: '."http://nahjal-balagha.asan-web.ir/nahf.html");
 ?>
