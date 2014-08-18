@@ -8,4 +8,5 @@ the nahjolbalaghe web site is about Ali and nahjolbalaghe'book and other Ali sie
 http://nahjal-balagha.asan-web.ir/
 
 -------------
-its under construct
+its under construct.
+testing on free host with some bug by there host.
