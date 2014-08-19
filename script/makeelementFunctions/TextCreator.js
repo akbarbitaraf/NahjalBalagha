@@ -1,6 +1,5 @@
-function khtsazande(number)
+function textCreator(path)
 {
-
 $(document).ready(function()
     {
         $("#readNPID").show(function ()
@@ -15,7 +14,7 @@ $(document).ready(function()
 
     var allText = "";
     var GetkhtHText = new XMLHttpRequest();
-    var path = "Nah/kht/"+number.toString()+".txt";
+
     GetkhtHText.open("GET", path, false);
     GetkhtHText.onreadystatechange = function ()
     {
@@ -24,9 +23,11 @@ $(document).ready(function()
             if(GetkhtHText.status === 200 || GetkhtHText.status == 0)
             {
                 allText = GetkhtHText.responseText;
-                allText = allText.replace(/\n/g , "");
-                var i = headerCreator(allText);
-                TextProcessing(allText , i);
+                allText = allText.replace(/(\r\n|\n|\r)/gm,'');
+                var start = findstart(allText);
+                var end = findend(allText , start);
+                var i = headerCreator(allText , start);
+                TextProcessing(allText , i , end);
             }
         }
     };

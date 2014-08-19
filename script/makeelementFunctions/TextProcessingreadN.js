@@ -1,11 +1,12 @@
-function TextProcessing(allText , i)
+function TextProcessing(allText , start , end)
 {
-    i++;
+    for( ; allText[start] !='#' ; start++);
+    start++;
     var textdetect = "";
-    for(; i < allText.length ; i++)
+    for( ; start < allText.length && start < end; start++)
     {
         var boxdetect = "";
-        if(allText[i] == "#")
+        if(allText[start] == "#")
         {
             if(textdetect != "")
             {
@@ -14,11 +15,11 @@ function TextProcessing(allText , i)
                     $('#readNPID').contents().find('body').append("<p>" + textdetect + "</p>");
                 });
             }
-            for( j = i+1 ; allText[j] != '#' && j < allText.length ; j++)
+            for( j = start+1 ; allText[j] != '#' && j < allText.length ; j++)
             {
                 boxdetect += allText[j];
             }
-            i = j;
+            start = j;
             $(document).ready(function()
             {
                 $('#readNPID').ready(function()
@@ -31,7 +32,7 @@ function TextProcessing(allText , i)
         }
         else
         {
-            textdetect += allText[i];
+            textdetect += allText[start];
         }
     }
     if(textdetect != "")

@@ -24,10 +24,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nahf.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="nahf.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nahf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="10" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.25553915" vertical-offset="787" max-vertical-offset="1752">
+            <state line="58" column="51" selection-start="3538" selection-end="3538" vertical-scroll-proportion="-13.342857" vertical-offset="1041" max-vertical-offset="1950">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextCreator.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/TextCreator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1040">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kht.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth2/kht.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="1" selection-start="74" selection-end="74" vertical-scroll-proportion="0.10788382" vertical-offset="0" max-vertical-offset="723">
               <folding />
             </state>
           </provider>
@@ -46,12 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/script/boxFunctions/akh.js" />
-        <option value="$PROJECT_DIR$/script/boxBehaviors/fadeinAndShowBoxJquary.js" />
-        <option value="$PROJECT_DIR$/script/boxFunctions/man.js" />
-        <option value="$PROJECT_DIR$/script/boxBehaviors/FadeIn.js" />
-        <option value="$PROJECT_DIR$/script/boxBehaviors/FadeOut.js" />
-        <option value="$PROJECT_DIR$/script/boxBehaviors/downAppearbox.js" />
         <option value="$PROJECT_DIR$/script/boxBehaviors/FadeHover.js" />
         <option value="$PROJECT_DIR$/CSS/reanN.css" />
         <option value="$PROJECT_DIR$/CSS/boxTpes/boxBlue.css" />
@@ -67,10 +79,7 @@
         <option value="$PROJECT_DIR$/CSS/font.css" />
         <option value="$PROJECT_DIR$/CSS/font/font.css" />
         <option value="$PROJECT_DIR$/readN.html" />
-        <option value="$PROJECT_DIR$/script/makeelementFunctions/headerreadN.js" />
-        <option value="$PROJECT_DIR$/script/makeelementFunctions/TextProcessing.js" />
         <option value="$PROJECT_DIR$/php/databaseFunctions.php5" />
-        <option value="$PROJECT_DIR$/script/boxFunctions/depth3/arz.js" />
         <option value="$PROJECT_DIR$/document/database/e.json" />
         <option value="$PROJECT_DIR$/document/database/databasefunctions.php5" />
         <option value="$PROJECT_DIR$/document/database/mongoDB/e.json" />
@@ -87,16 +96,25 @@
         <option value="$PROJECT_DIR$/CSS/CssAnimation/boxCenterRight.css" />
         <option value="$PROJECT_DIR$/script/boxBehaviors/movetoCenter.js" />
         <option value="$PROJECT_DIR$/script/boxFunctions/depth2/khtcontainer1.js" />
-        <option value="$PROJECT_DIR$/script/boxFunctions/depth2/kht1.js" />
         <option value="$PROJECT_DIR$/script/boxFunctions/depth1/kh.js" />
         <option value="$PROJECT_DIR$/script/firstWorks.js" />
         <option value="$PROJECT_DIR$/CSS/readN.css" />
         <option value="$PROJECT_DIR$/Nah/other/man/arzH.html" />
         <option value="$PROJECT_DIR$/CSS/boxTpes/boxBlueReadN.css" />
         <option value="$PROJECT_DIR$/CSS/boxTpes/boxGreenReadN.css" />
-        <option value="$PROJECT_DIR$/Nah/kht/1.txt" />
-        <option value="$PROJECT_DIR$/nahf.html" />
         <option value="$PROJECT_DIR$/script/boxFunctions/khtsazande.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/find end.js" />
+        <option value="$PROJECT_DIR$/Nah/kht/1.txt" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/findstart.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/headerreadN.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/findend.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/TextProcessing.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/khtsazande.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/textCreator.js" />
+        <option value="$PROJECT_DIR$/script/makeelementFunctions/TextCreator.js" />
+        <option value="$PROJECT_DIR$/script/boxFunctions/depth3/arz.js" />
+        <option value="$PROJECT_DIR$/script/boxFunctions/depth2/kht1.js" />
+        <option value="$PROJECT_DIR$/nahf.html" />
       </list>
     </option>
   </component>
@@ -198,7 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="boxFunctions" />
+              <option name="myItemId" value="makeelementFunctions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,32 +235,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="boxFunctions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depth3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nahjolbalaghe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nahjolbalaghe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boxFunctions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depth2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,6 +249,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Nah" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="man" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,7 +288,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="last_opened_file_path" value="E:/mdr" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -306,11 +306,11 @@
       <recent name="E:\nah\nahjolbalaghe\CSS\liveboxs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\kar\nahjolbalaghe\script\makeelementFunctions" />
       <recent name="E:\nah\nahjolbalaghe\script\boxFunctions" />
       <recent name="E:\nah\nahjolbalaghe\php\khotbeha" />
       <recent name="E:\nah\nahjolbalaghe\document\database\mongoDB" />
       <recent name="E:\nah\nahjolbalaghe\Nah\other\man" />
-      <recent name="E:\nah\nahjolbalaghe\script" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.databaseFunctions.php5">
@@ -381,9 +381,10 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2376502" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18100129" sideWeight="0.49933067" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14569962" sideWeight="0.49933067" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994911" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16559692" sideWeight="0.50066936" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919892" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -392,11 +393,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23791349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -418,16 +418,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS/background.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/CssAnimation/boxCenterRight.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nahf.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -548,11 +538,6 @@
         <state line="2" column="1" selection-start="27" selection-end="27" vertical-scroll-proportion="0.069565214" vertical-offset="0" max-vertical-offset="690" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/document/database/mongoDB/moadmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="618" selection-end="618" vertical-scroll-proportion="0.3899557" vertical-offset="216" max-vertical-offset="59736" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/document/database/mongoDB/mongoDB.php5">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="19" selection-start="326" selection-end="326" vertical-scroll-proportion="0.59130436" vertical-offset="0" max-vertical-offset="912" />
@@ -598,11 +583,6 @@
         <state line="8" column="23" selection-start="136" selection-end="136" vertical-scroll-proportion="0.26556018" vertical-offset="0" max-vertical-offset="723" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nah/other/man/arzH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/readN.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="13" selection-start="80" selection-end="80" vertical-scroll-proportion="0.16901408" vertical-offset="0" max-vertical-offset="912" />
@@ -633,56 +613,84 @@
         <state line="4" column="22" selection-start="86" selection-end="86" vertical-scroll-proportion="0.13278009" vertical-offset="0" max-vertical-offset="723" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/headerreadN.js">
+    <entry file="file://$PROJECT_DIR$/Nah/kht/kht1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
+        <state line="6" column="19" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.21270311" vertical-offset="0" max-vertical-offset="1608" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/TextProcessing.js">
+    <entry file="file://$PROJECT_DIR$/document/database/mongoDB/moadmin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="114" selection-end="114" vertical-scroll-proportion="0.16901408" vertical-offset="0" max-vertical-offset="1200">
+        <state line="2004" column="37" selection-start="79937" selection-end="79937" vertical-scroll-proportion="-9.555555" vertical-offset="58554" max-vertical-offset="64714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nah/other/man/arzH.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="132" selection-end="132" vertical-scroll-proportion="0.19259259" vertical-offset="0" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nah/kht/1.html">
+    <entry file="file://$PROJECT_DIR$/Nah/kht/kht1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.21270311" vertical-offset="0" max-vertical-offset="1608">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/findstart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="119" selection-end="119" vertical-scroll-proportion="0.17980637" vertical-offset="0" max-vertical-offset="723">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/headerreadN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="63" selection-end="99" vertical-scroll-proportion="0.10788382" vertical-offset="0" max-vertical-offset="723">
+          <folding>
+            <marker date="1408437306666" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/findend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="54" selection-end="54" vertical-scroll-proportion="0.07192255" vertical-offset="0" max-vertical-offset="723">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/TextProcessingreadN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="380" selection-end="380" vertical-scroll-proportion="0.47605634" vertical-offset="0" max-vertical-offset="1326">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth3/arz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="107" selection-end="107" vertical-scroll-proportion="0.033195022" vertical-offset="96" max-vertical-offset="888">
+        <state line="3" column="1" selection-start="64" selection-end="64" vertical-scroll-proportion="0.10788382" vertical-offset="0" max-vertical-offset="723">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nah/kht/1.txt">
+    <entry file="file://$PROJECT_DIR$/script/makeelementFunctions/TextCreator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="18211" selection-end="18211" vertical-scroll-proportion="2.061972" vertical-offset="0" max-vertical-offset="1608">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth2/kht1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="36" selection-end="36" vertical-scroll-proportion="0.066390045" vertical-offset="0" max-vertical-offset="723">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/boxFunctions/khtsazande.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="211" selection-end="211" vertical-scroll-proportion="0.36514524" vertical-offset="0" max-vertical-offset="936">
+        <state line="2" column="14" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1040">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nahf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="10" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.25553915" vertical-offset="787" max-vertical-offset="1752">
+        <state line="58" column="51" selection-start="3538" selection-end="3538" vertical-scroll-proportion="-13.342857" vertical-offset="1041" max-vertical-offset="1950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/boxFunctions/depth2/kht.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="1" selection-start="74" selection-end="74" vertical-scroll-proportion="0.10788382" vertical-offset="0" max-vertical-offset="723">
           <folding />
         </state>
       </provider>
