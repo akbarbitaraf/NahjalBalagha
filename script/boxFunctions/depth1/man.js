@@ -7,6 +7,13 @@ function man(id)
     fadeoutBox("na");
     fadeoutBox("hk");
 
+    fadeoutBox("kht1");
+
+    setTimeout(function()
+    {
+        hidekht1();
+    } , 1100);
+
     movingtorightCenter("man");
 
     document.getElementById("akh").className = "boxakh boxBlue boxhoverBlue boxpositiontypeAb ";

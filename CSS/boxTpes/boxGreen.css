@@ -19,3 +19,7 @@
     opacity: 0.9;
 
 }
+.boxGreen:hover
+{
+    text-shadow: 0px 1px 6px gray;
+}

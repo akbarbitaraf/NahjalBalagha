@@ -18,3 +18,7 @@
 
     opacity: 0;
 }
+.boxBlue:hover
+{
+    text-shadow: 0px 0px 10px gray;
+}

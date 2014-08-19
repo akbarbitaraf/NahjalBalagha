@@ -12,6 +12,8 @@ function shz(id)
     fadeoutBox("mkh");
     fadeoutBox("tkh");
     fadeoutBox("sst");
+    fadeoutBox("kht1");
+
     setTimeout(function()
     {
         hideakh();
@@ -19,6 +21,7 @@ function shz(id)
         hidemkh();
         hidetkh();
         hidesst();
+        hidekht1();
     } , 1100);
 
 

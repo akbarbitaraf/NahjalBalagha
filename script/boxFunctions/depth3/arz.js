@@ -1,4 +1,4 @@
 function arz(id)
 {
-    textCreator("Nah/other/man/arzH.html");
+    textCreator("Nah/other/man/"+ id.toString()+".html");
 }

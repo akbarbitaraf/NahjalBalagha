@@ -13,6 +13,12 @@ function firstwork()
         $("#kht1").hide();
     });
 }
+function hidekht1()
+{
+    $(document).ready(function(){
+        $("#kht1").hide();
+    });
+}
 function hideakh()
 {
     $(document).ready(function(){

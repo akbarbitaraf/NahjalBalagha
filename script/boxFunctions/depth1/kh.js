@@ -6,6 +6,22 @@ function kh(id)
     fadeoutBox("na");
     fadeoutBox("hk");
 
+    fadeoutBox("akh");
+    fadeoutBox("hes");
+    fadeoutBox("mkh");
+    fadeoutBox("tkh");
+    fadeoutBox("sst");
+
+    setTimeout(function()
+    {
+        hideakh();
+        hidehes();
+        hidemkh();
+        hidetkh();
+        hidesst();
+    } , 1100);
+
+
     movingtorightCenter("kh");
 
     document.getElementById("kht1").className = "boxakh boxBlue boxhoverBlue boxpositiontypeAb ";

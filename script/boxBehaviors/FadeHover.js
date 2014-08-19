@@ -1,10 +1,10 @@
 $(document).ready(function()
 {
-    $("#akh,#hes,#mkh,#tkh,#sst,#arz,#shz,#shh,#kh,#na,#man,#hk").mouseenter(function()
+    $("#akh,#hes,#mkh,#tkh,#sst,#arz,#shz,#shh,#kh,#na,#man,#hk,#kht1").mouseenter(function()
     {
         $(this).fadeTo(700,1);
     });
-    $("#akh,#hes,#mkh,#tkh,#sst,#arz,#shz,#shh,#kh,#na,#man,#hk").mouseleave(function()
+    $("#akh,#hes,#mkh,#tkh,#sst,#arz,#shz,#shh,#kh,#na,#man,#hk,#kht1").mouseleave(function()
     {
         $(this).fadeTo(700,0.9);
     });
