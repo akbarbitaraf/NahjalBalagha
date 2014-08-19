@@ -27,11 +27,11 @@ function shz(id)
 
     movingtorightCenter("shz");
 
-    /*document.getElementById("akh").className = "boxakh boxBlue boxhoverBlue boxpositiontypeAb ";
-    document.getElementById("hes").className = "boxhes boxBlue boxhoverBlue boxpositiontypeAb ";
-    document.getElementById("mkh").className = "boxmkh boxBlue boxhoverBlue boxpositiontypeAb ";
-    document.getElementById("tkh").className = "boxtkh boxBlue boxhoverBlue boxpositiontypeAb ";
-    document.getElementById("sst").className = "boxsst boxBlue boxhoverBlue boxpositiontypeAb ";
+    /*document.getElementById("akh").className = "boxakh boxBlue boxpositiontypeAb ";
+    document.getElementById("hes").className = "boxhes boxBlue boxpositiontypeAb ";
+    document.getElementById("mkh").className = "boxmkh boxBlue boxpositiontypeAb ";
+    document.getElementById("tkh").className = "boxtkh boxBlue boxpositiontypeAb ";
+    document.getElementById("sst").className = "boxsst boxBlue boxpositiontypeAb ";
 
     setTimeout(function(){fadeinAndshowBoxJquary("akh")},1000);
     setTimeout(function(){fadeinAndshowBoxJquary("hes")},1000);

@@ -8,7 +8,7 @@ function akh(id)
 
     movingtocenter(id);
 
-    document.getElementById("arz").className = "boxarz boxGray boxhoverGray boxpositiontypeAb ";
+    document.getElementById("arz").className = "boxarz boxGray boxpositiontypeAb ";
 
     setTimeout(function(){fadeinAndshowBoxJquary("arz")},1000);
 

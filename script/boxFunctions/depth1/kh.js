@@ -24,7 +24,7 @@ function kh(id)
 
     movingtorightCenter("kh");
 
-    document.getElementById("kht1").className = "boxakh boxBlue boxhoverBlue boxpositiontypeAb ";
+    document.getElementById("kht1").className = "boxakh boxBlue boxpositiontypeAb ";
 
     setTimeout(function(){fadeinAndshowBoxJquary("kht1")},1000);
 
