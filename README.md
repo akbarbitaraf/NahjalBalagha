@@ -9,4 +9,4 @@ http://nahjal-balagha.asan-web.ir/
 
 -------------
 its under construct.
-testing on free host with some bug by there host.
+testing on free host.
